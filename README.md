@@ -10,7 +10,12 @@ It is possible that longer periods of pre-trial detention, or detainees’ delay
 ### Methodological Notes
 
 <ul>
-  <li>Roster URLs are manually verified. A number of sites claim to provide current jail roster information for every facility in the United States (e.g., mugshots.com, inmateaid.com, etc.). Any roster that exists for a facility but that is not explicitly linked on the corresponding county/municipality website is not included .
+  <li>We are making available daily jail population counts for every facility in the United States from which we are currently receiving daily roster data. We will update these counts as new roster data are collected.
+  </li>
+</ul>
+
+<ul>
+  <li>Roster URLs are manually verified. A number of sites claim to provide current jail roster information for every facility in the United States (e.g., mugshots.com, inmateaid.com, etc.). Any roster that exists for a facility but that is not explicitly linked on the corresponding county/municipality website is not included.
   </li>
 </ul>
 
