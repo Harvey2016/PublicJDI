@@ -1,8 +1,7 @@
-# PublicJDI
-A repository for public data collected and analysis conducted as part of the Jail Data Initiative (JDI) by the Public Safety Lab (PSL) at New York University (NYU)
-
 # <a href="https://publicsafetylab.org/jail-data-initiative"><b>Jail Data Initiative</b></a>(JDI)
 ### NYU <a href="https://publicsafetylab.org/"><b>Public Safety Lab</b></a>
+
+<b><i>Note: this is a repository for public data collected and analysis conducted as part of the JDI<i><b>
 
 The problem of overincarceration has received considerable attention of late. The focus of this attention, however, has largely been on state and federal prison systems. Often overlooked are local jails. In any given year, approximately 11 million Americans will be detained in a county jail, often because they lack the funds to post bail, or even because they lack the funds to pay their fines. Yet we know little about county jail practices, including which counties are systematically jailing defendants pre-trial and/or post-fine, and about the consequences of these practices. 
 
