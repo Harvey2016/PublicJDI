@@ -1,4 +1,4 @@
-### <b><i>Note: this is a public repository for data collected and analysis conducted as part of the JDI.</i></b>
+### <b><i>Note: this is a public repository for data collected and analysis conducted as part of the JDI</i></b>
 
 # <a href="https://publicsafetylab.org/jail-data-initiative"><b>Jail Data Initiative</b></a>(JDI)
 ### NYU <a href="https://publicsafetylab.org/"><b>Public Safety Lab</b></a>
