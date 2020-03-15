@@ -15,7 +15,7 @@ It is possible that longer periods of pre-trial detention, or detainees’ delay
 </ul>
 
 <ul>
-  <li>Roster URLs are manually verified. A number of sites claim to provide current jail roster information for every facility in the United States (e.g., mugshots.com, inmateaid.com, etc.). Any roster that exists for a facility but that is not explicitly linked on the corresponding county/municipality website is not included.
+  <li>Roster URLs are manually verified to ensure that they are reporting official jail roster data in the public record.
   </li>
 </ul>
 
