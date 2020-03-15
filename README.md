@@ -12,8 +12,6 @@ It is possible that longer periods of pre-trial detention, or detainees’ delay
 <ul>
   <li>Roster URLs are manually verified. A number of sites claim to provide current jail roster information for every facility in the United States (e.g., mugshots.com, inmateaid.com, etc.). Any roster that exists for a facility but is not explicitly linked on the corresponding county/municipality sheriff's website is discarded.
   </li>
-  <li>As a rule, all available data on a given roster is captured by a scrape. We are conducting a continual manual schematic reconciliation process (e.g., if 'Arrest Date' appears on Roster A and 'Date of Arrest' appears on Roster B, both fields will be captured as 'Arrest_Date' by scrapers); documentation of all roster-level field title changes will be made publicly available in the next phase of this project.
-  </li>
 </ul>
 
 ## Contact Information
