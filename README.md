@@ -19,6 +19,11 @@ It is possible that longer periods of pre-trial detention, or detainees’ delay
   </li>
 </ul>
 
+<ul>
+  <li>We are sharing these data with the Vera Institute of Justice to support their work on jail populations. 
+  </li>
+</ul>
+
 ## Contact Information
 
 Please contact Public Safety Lab Director Anna Harvey or Lead Data Scientist Orion Taylor (<a href="https://publicsafetylab.org/who-we-are"><b>WHO WE ARE</b></a>) with questions, comments and feedback.
