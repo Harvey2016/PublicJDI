@@ -1,1 +1,28 @@
-2020-06-03 10:55:45
+2020-06-03 14:04:06
+
+Population = 0:
+Scrape_Date Facility_Identifier  Population  Change
+ 2020-06-03          AL_Fayette           0     NaN
+ 2020-06-03          AR_Madison           0     NaN
+ 2020-06-03          AR_Pulaski           0     NaN
+ 2020-06-03           CO_Elbert           0     NaN
+ 2020-06-03          IA_Osceola           0     NaN
+ 2020-06-03          IN_Madison           0    -1.0
+ 2020-06-03            KS_Chase           0     NaN
+ 2020-06-03             MN_Cook           0     NaN
+ 2020-06-03         MN_Traverse           0     NaN
+ 2020-06-03            MO_Taney           0    -1.0
+ 2020-06-03           OH_Gallia           0     NaN
+ 2020-06-03          TX_Kaufman           0     NaN
+
+
+Drastic Change:
+Scrape_Date Facility_Identifier  Population    Change
+ 2020-06-03        CA_Mendocino         160       inf
+ 2020-06-03         FL_Suwannee         134 -0.167702
+ 2020-06-03         MN_St_Louis         130  0.101695
+ 2020-06-03            NE_Sarpy         110 -0.160305
+ 2020-06-03        NV_Las_Vegas         249 -0.113879
+ 2020-06-03            OH_Lucas         101  0.629032
+ 2020-06-03           OH_Summit         338 -0.128866
+ 2020-06-03         TN_Davidson        1617  0.100749
