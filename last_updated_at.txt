@@ -1,4 +1,4 @@
-2020-06-04 12:46:15
+2020-06-04 23:11:37
 
 Population = 0:
 Scrape_Date Facility_Identifier  Population  Change
@@ -20,6 +20,7 @@ Scrape_Date Facility_Identifier  Population  Change
  2020-06-04            MS_Jones           0     NaN
  2020-06-04           OH_Gallia           0     NaN
  2020-06-04           TN_Putnam           0    -1.0
+ 2020-06-04       TX_Hutchinson           0     NaN
  2020-06-04          TX_Kaufman           0     NaN
  2020-06-04          UT_Sanpete           0    -1.0
  2020-06-03          AL_Fayette           0    -1.0
@@ -39,8 +40,12 @@ Scrape_Date Facility_Identifier  Population  Change
 Drastic Change:
 Scrape_Date     Facility_Identifier  Population     Change
  2020-06-04           IA_Black_Hawk         156  -0.378486
+ 2020-06-04            NC_Brunswick         198  -0.188525
  2020-06-04              PA_Clinton         211   0.255952
+ 2020-06-04               TN_Monroe         164  -0.127660
  2020-06-04              TN_Stewart         104  -0.200000
+ 2020-06-04                TX_Cooke         141  -0.101911
+ 2020-06-04                UT_Davis         269  -0.556837
  2020-06-03                  FL_Lee         800  16.391304
  2020-06-03             FL_Suwannee         134  -0.167702
  2020-06-03                 GA_Tift         205  -0.100877
