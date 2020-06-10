@@ -1,62 +1,79 @@
-2020-06-08 23:19:54
+2020-06-09 23:21:39
 
 Population = 0:
 Scrape_Date Facility_Identifier  Population  Change
- 2020-06-08          AL_Fayette           0     NaN
+ 2020-06-09          AL_Fayette           0     NaN
+ 2020-06-09             AR_Clay           0     NaN
+ 2020-06-09       AR_Hot_Spring           0     NaN
+ 2020-06-09            AR_Izard           0     NaN
+ 2020-06-09            AR_Perry           0     NaN
+ 2020-06-09          AR_Prairie           0     NaN
+ 2020-06-09          AR_Pulaski           0     NaN
+ 2020-06-09         AR_Randolph           0     NaN
+ 2020-06-09            AR_Sharp           0     NaN
+ 2020-06-09           CO_Elbert           0     NaN
+ 2020-06-09          GA_Chatham           0    -1.0
+ 2020-06-09          GA_Lincoln           0     NaN
+ 2020-06-09          IA_Osceola           0     NaN
+ 2020-06-09            KS_Chase           0     NaN
+ 2020-06-09             MN_Cook           0     NaN
+ 2020-06-09         MN_Traverse           0     NaN
+ 2020-06-09           MO_Miller           0     NaN
+ 2020-06-09            MO_Taney           0     NaN
+ 2020-06-09         MS_Harrison           0     NaN
+ 2020-06-09            MS_Jones           0     NaN
+ 2020-06-09           OH_Gallia           0     NaN
+ 2020-06-09       SC_Georgetown           0    -1.0
+ 2020-06-09           TN_Putnam           0     NaN
+ 2020-06-09       TX_Hutchinson           0     NaN
+ 2020-06-09          TX_Kaufman           0     NaN
+ 2020-06-09            UT_Grand           0    -1.0
+ 2020-06-09          UT_Sanpete           0     NaN
+ 2020-06-08          AL_Fayette           0    -1.0
  2020-06-08       AR_Hot_Spring           0     NaN
  2020-06-08            AR_Izard           0     NaN
  2020-06-08            AR_Perry           0     NaN
  2020-06-08          AR_Prairie           0     NaN
  2020-06-08          AR_Pulaski           0     NaN
  2020-06-08         AR_Randolph           0     NaN
- 2020-06-08           CO_Elbert           0     NaN
+ 2020-06-08           CO_Elbert           0    -1.0
  2020-06-08          IA_Osceola           0     NaN
  2020-06-08          IN_Madison           0    -1.0
- 2020-06-08            KS_Chase           0     NaN
- 2020-06-08             MN_Cook           0     NaN
- 2020-06-08         MN_Traverse           0     NaN
- 2020-06-08   MO_Cape_Girardeau           0     NaN
- 2020-06-08            MO_Taney           0     NaN
+ 2020-06-08            KS_Chase           0    -1.0
+ 2020-06-08             MN_Cook           0    -1.0
+ 2020-06-08         MN_Traverse           0    -1.0
+ 2020-06-08   MO_Cape_Girardeau           0    -1.0
+ 2020-06-08            MO_Taney           0    -1.0
  2020-06-08         MS_Harrison           0     NaN
  2020-06-08            MS_Jones           0     NaN
- 2020-06-08           OH_Gallia           0     NaN
- 2020-06-08           TN_Putnam           0     NaN
+ 2020-06-08           OH_Gallia           0    -1.0
+ 2020-06-08           TN_Putnam           0    -1.0
  2020-06-08       TX_Hutchinson           0     NaN
- 2020-06-08          TX_Kaufman           0     NaN
- 2020-06-08          UT_Sanpete           0     NaN
- 2020-06-07          AL_Fayette           0    -1.0
- 2020-06-07       AR_Hot_Spring           0     NaN
- 2020-06-07            AR_Izard           0     NaN
- 2020-06-07          AR_Madison           0    -1.0
- 2020-06-07            AR_Perry           0     NaN
- 2020-06-07          AR_Prairie           0     NaN
- 2020-06-07          AR_Pulaski           0     NaN
- 2020-06-07         AR_Randolph           0     NaN
- 2020-06-07           CO_Elbert           0    -1.0
- 2020-06-07          IA_Osceola           0     NaN
- 2020-06-07            KS_Chase           0    -1.0
- 2020-06-07             MN_Cook           0    -1.0
- 2020-06-07         MN_Traverse           0    -1.0
- 2020-06-07   MO_Cape_Girardeau           0    -1.0
- 2020-06-07            MO_Taney           0    -1.0
- 2020-06-07         MS_Harrison           0     NaN
- 2020-06-07            MS_Jones           0     NaN
- 2020-06-07           OH_Gallia           0    -1.0
- 2020-06-07           TN_Putnam           0    -1.0
- 2020-06-07       TX_Hutchinson           0     NaN
- 2020-06-07          TX_Kaufman           0    -1.0
- 2020-06-07          UT_Sanpete           0    -1.0
+ 2020-06-08          TX_Kaufman           0    -1.0
+ 2020-06-08          UT_Sanpete           0    -1.0
 
 
 Drastic Change:
 Scrape_Date     Facility_Identifier  Population     Change
+ 2020-06-09        CA_Santa_Barbara         655  -0.348907
+ 2020-06-09                  ID_Ada         725  -0.255647
+ 2020-06-09                 IN_Clay         135  -0.123377
+ 2020-06-09             IN_Randolph         829  -0.203650
+ 2020-06-09          IN_Vanderburgh         604  -0.222651
+ 2020-06-09            LA_St_Landry         256  12.473684
+ 2020-06-09       MO_Cape_Girardeau         149        inf
+ 2020-06-09            NV_Las_Vegas         245  -0.118705
+ 2020-06-09                OK_Grady         128  -0.111111
+ 2020-06-09               PA_Mercer         190  -0.379085
+ 2020-06-09         WA_Grays_Harbor         120  -0.104478
+ 2020-06-09      WA_King_Des_Moines         351  -0.113636
+ 2020-06-09             WA_Thurston         251  -0.317935
  2020-06-08            AR_Craighead         175  -0.449686
+ 2020-06-08                  FL_Lee         800  16.391304
  2020-06-08               ID_Cassia         136  -0.240223
  2020-06-08                OK_Grady         144   0.125000
- 2020-06-08             TN_Davidson        1660   0.118598
- 2020-06-07                  FL_Lee         800  16.391304
- 2020-06-07           SC_Georgetown         554  -0.766343
- 2020-06-07             TX_Angelina         202  -0.121739
+ 2020-06-08           SC_Georgetown         555  -0.765922
+ 2020-06-08             TX_Angelina         204  -0.113043
  2020-06-06              LA_Lincoln         221   0.389937
  2020-06-06            MA_Worcester         455  -0.139887
  2020-06-06                OH_Lucas         110   0.100000
