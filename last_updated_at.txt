@@ -1,4 +1,4 @@
-2020-06-15 16:14:56
+2020-06-15 23:21:33
 
 Population = 0:
 Scrape_Date Facility_Identifier  Population  Change
@@ -63,6 +63,7 @@ Scrape_Date     Facility_Identifier  Population     Change
  2020-06-15              GA_Lowndes         120  -0.759036
  2020-06-15                 IN_Clay         121  -0.159722
  2020-06-15              PA_Clinton         168  -0.203791
+ 2020-06-14               CA_Madera         200  -0.591002
  2020-06-14                  FL_Lee         800  16.391304
  2020-06-14              LA_Bossier        1800   0.633394
  2020-06-14             MN_St_Louis         143   0.144000
@@ -78,8 +79,6 @@ Scrape_Date     Facility_Identifier  Population     Change
  2020-06-12           OH_Washington         108   0.113402
  2020-06-12              OR_Douglas         107   0.273810
  2020-06-11               CA_Merced         658   3.633803
- 2020-06-11               GA_Fulton        2405  21.064220
- 2020-06-11             IL_Kankakee         253   0.902256
  2020-06-10               IN_Marion        1436  -0.231675
  2020-06-10           LA_Beauregard         121   5.368421
  2020-06-10             LA_Richland         597  30.421053
@@ -106,7 +105,6 @@ Scrape_Date     Facility_Identifier  Population     Change
  2020-06-06                TN_Giles         122   0.129630
  2020-06-05              LA_Lincoln         159  -0.277273
  2020-06-05                 UT_Iron         119  10.900000
- 2020-06-04           IA_Black_Hawk         156  -0.378486
  2020-06-04            NC_Brunswick         198  -0.188525
  2020-06-04               TN_Monroe         164  -0.127660
  2020-06-04                TX_Cooke         141  -0.101911
@@ -117,7 +115,6 @@ Scrape_Date     Facility_Identifier  Population     Change
  2020-06-03            NV_Las_Vegas         249  -0.113879
  2020-06-03                OH_Lucas         101   0.629032
  2020-06-03               OH_Summit         338  -0.128866
- 2020-06-02               CA_Madera         200  -0.591002
  2020-06-02                IA_Scott         293   0.105660
  2020-06-01             GA_Paulding         225  -0.625000
  2020-06-01            NV_Las_Vegas         286  -0.173410
@@ -399,11 +396,8 @@ Scrape_Date     Facility_Identifier  Population     Change
  2020-03-04              LA_St_Mary         221  -0.105263
  2020-03-04              MN_Goodhue         104  -0.133333
  2020-03-04               OH_Morrow         114  -0.123077
- 2020-03-03      IL_Kankakee_Jerome         128  -0.111111
  2020-03-03                 IN_Clay         153  -0.140449
  2020-03-03            MN_Crow_Wing         168   0.105263
- 2020-03-02             IL_Kankakee         169  -0.105820
- 2020-03-02      IL_Kankakee_Jerome         144   0.142857
  2020-03-02              VA_Roanoke         178  -0.118812
  2020-03-01              MS_Hancock         201  -0.102679
  2020-02-29              MS_Hancock         224   0.142857
