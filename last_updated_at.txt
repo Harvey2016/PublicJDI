@@ -1,4 +1,4 @@
-2020-06-19 12:12:19
+2020-06-19 23:21:32
 
 Population = 0:
 Scrape_Date Facility_Identifier  Population  Change
@@ -31,11 +31,11 @@ Scrape_Date Facility_Identifier  Population  Change
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-06-19               IN_Madison         236  77.666667
  2020-06-19               OR_Douglas         121   2.025000
  2020-06-18                   FL_Lee         800  16.391304
  2020-06-18         IA_Pottawattamie         129  -0.145695
  2020-06-18  NY_Onondaga_Corrections         181   0.124224
- 2020-06-18            SC_Georgetown         477  -0.798819
  2020-06-17                  IN_Clay         139   0.103175
  2020-06-17  NY_Onondaga_Corrections         161   0.150000
  2020-06-17               OH_Licking         166  -0.126316
