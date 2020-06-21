@@ -1,7 +1,20 @@
-2020-06-19 23:21:32
+2020-06-20 23:22:27
 
 Population = 0:
 Scrape_Date Facility_Identifier  Population  Change
+ 2020-06-20       AR_Hot_Spring           0     NaN
+ 2020-06-20            AR_Izard           0     NaN
+ 2020-06-20          AR_Madison           0     NaN
+ 2020-06-20            AR_Perry           0     NaN
+ 2020-06-20          AR_Prairie           0     NaN
+ 2020-06-20         AR_Randolph           0     NaN
+ 2020-06-20            AR_Sharp           0     NaN
+ 2020-06-20           CO_Elbert           0     NaN
+ 2020-06-20            KS_Trego           0     NaN
+ 2020-06-20             MN_Cook           0    -1.0
+ 2020-06-20   MO_Cape_Girardeau           0     NaN
+ 2020-06-20         MS_Harrison           0     NaN
+ 2020-06-20       TX_Hutchinson           0     NaN
  2020-06-19       AR_Hot_Spring           0     NaN
  2020-06-19            AR_Izard           0     NaN
  2020-06-19          AR_Madison           0    -1.0
@@ -9,31 +22,21 @@ Scrape_Date Facility_Identifier  Population  Change
  2020-06-19          AR_Prairie           0     NaN
  2020-06-19         AR_Randolph           0     NaN
  2020-06-19            AR_Sharp           0     NaN
- 2020-06-19           CO_Elbert           0     NaN
+ 2020-06-19           CO_Elbert           0    -1.0
  2020-06-19            KS_Trego           0    -1.0
- 2020-06-19   MO_Cape_Girardeau           0     NaN
+ 2020-06-19   MO_Cape_Girardeau           0    -1.0
  2020-06-19         MS_Harrison           0     NaN
  2020-06-19       TX_Hutchinson           0     NaN
- 2020-06-19            UT_Grand           0     NaN
- 2020-06-18       AR_Hot_Spring           0     NaN
- 2020-06-18            AR_Izard           0     NaN
- 2020-06-18            AR_Perry           0     NaN
- 2020-06-18          AR_Prairie           0     NaN
- 2020-06-18         AR_Randolph           0     NaN
- 2020-06-18            AR_Sharp           0     NaN
- 2020-06-18           CO_Elbert           0    -1.0
- 2020-06-18             MN_Cook           0    -1.0
- 2020-06-18   MO_Cape_Girardeau           0    -1.0
- 2020-06-18         MS_Harrison           0     NaN
- 2020-06-18       TX_Hutchinson           0     NaN
- 2020-06-18            UT_Grand           0    -1.0
+ 2020-06-19            UT_Grand           0    -1.0
 
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-06-20               GA_Catoosa         144   0.116279
+ 2020-06-20                  OR_Linn         109   1.319149
+ 2020-06-19                   FL_Lee         800  16.391304
  2020-06-19               IN_Madison         236  77.666667
  2020-06-19               OR_Douglas         121   2.025000
- 2020-06-18                   FL_Lee         800  16.391304
  2020-06-18         IA_Pottawattamie         129  -0.145695
  2020-06-18  NY_Onondaga_Corrections         181   0.124224
  2020-06-17                  IN_Clay         139   0.103175
