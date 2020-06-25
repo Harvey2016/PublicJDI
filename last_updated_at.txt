@@ -1,35 +1,28 @@
-2020-06-23 23:23:53
+2020-06-24 23:12:38
 
 Population = 0:
 Scrape_Date Facility_Identifier  Population  Change
- 2020-06-23           CO_Elbert           0     NaN
+ 2020-06-23           CO_Elbert           0    -1.0
  2020-06-23     LA_Natchitoches           0    -1.0
  2020-06-23             MN_Cook           0    -1.0
  2020-06-23         MS_Harrison           0     NaN
  2020-06-23            UT_Grand           0    -1.0
- 2020-06-22       AR_Hot_Spring           0     NaN
- 2020-06-22            AR_Izard           0     NaN
- 2020-06-22          AR_Madison           0    -1.0
- 2020-06-22            AR_Perry           0     NaN
- 2020-06-22          AR_Prairie           0     NaN
- 2020-06-22         AR_Randolph           0     NaN
- 2020-06-22            AR_Sharp           0     NaN
- 2020-06-22           CO_Elbert           0    -1.0
- 2020-06-22            KS_Trego           0    -1.0
- 2020-06-22   MO_Cape_Girardeau           0    -1.0
- 2020-06-22         MS_Harrison           0     NaN
- 2020-06-22       NM_Bernalillo           0    -1.0
 
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-06-24             GA_Effingham         146  -0.109756
+ 2020-06-24               GA_Lowndes         420  -0.178082
+ 2020-06-24                   ID_Ada         619  -0.164642
+ 2020-06-24          LA_Natchitoches         309        inf
+ 2020-06-24              NC_Carteret         120   0.100917
+ 2020-06-24  NY_Onondaga_Corrections         229   0.106280
+ 2020-06-24               TN_Stewart         130  -0.166667
  2020-06-23                AL_Blount         105   0.129032
+ 2020-06-23                   FL_Lee         800  16.391304
  2020-06-23                 NC_Burke         115  -0.115385
  2020-06-23  NY_Onondaga_Corrections         207   0.106952
  2020-06-23                 OK_Grady         128  -0.111111
- 2020-06-23              TN_Davidson        1667   0.138661
- 2020-06-23               TN_Stewart         156   0.200000
- 2020-06-22                   FL_Lee         800  16.391304
  2020-06-22                  IN_Clay         120  -0.148936
  2020-06-22                  OR_Linn         113  13.125000
  2020-06-22               WA_Cowlitz         129   0.102564
