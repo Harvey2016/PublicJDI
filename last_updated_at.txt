@@ -1,25 +1,27 @@
-2020-06-24 23:12:38
+2020-06-25 23:12:55
 
 Population = 0:
-Scrape_Date Facility_Identifier  Population  Change
- 2020-06-23           CO_Elbert           0    -1.0
- 2020-06-23     LA_Natchitoches           0    -1.0
- 2020-06-23             MN_Cook           0    -1.0
- 2020-06-23         MS_Harrison           0     NaN
- 2020-06-23            UT_Grand           0    -1.0
+Empty DataFrame
+Columns: [Scrape_Date, Facility_Identifier, Population, Change]
+Index: []
 
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-06-25               GA_Jackson         103  -0.104348
+ 2020-06-25               GA_Lowndes         514   0.223810
+ 2020-06-25  NY_Onondaga_Corrections         257   0.122271
+ 2020-06-25                 OK_Grady         144   0.125000
+ 2020-06-25                  OR_Linn         119  18.833333
+ 2020-06-25              TN_Davidson        1321  -0.212753
+ 2020-06-25        VA_Virginia_Beach         240  -0.794344
+ 2020-06-24                   FL_Lee         800  16.391304
  2020-06-24             GA_Effingham         146  -0.109756
  2020-06-24               GA_Lowndes         420  -0.178082
  2020-06-24                   ID_Ada         619  -0.164642
- 2020-06-24          LA_Natchitoches         309        inf
  2020-06-24              NC_Carteret         120   0.100917
  2020-06-24  NY_Onondaga_Corrections         229   0.106280
- 2020-06-24               TN_Stewart         130  -0.166667
  2020-06-23                AL_Blount         105   0.129032
- 2020-06-23                   FL_Lee         800  16.391304
  2020-06-23                 NC_Burke         115  -0.115385
  2020-06-23  NY_Onondaga_Corrections         207   0.106952
  2020-06-23                 OK_Grady         128  -0.111111
