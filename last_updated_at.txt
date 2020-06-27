@@ -1,4 +1,4 @@
-2020-06-25 23:12:55
+2020-06-26 23:12:09
 
 Population = 0:
 Empty DataFrame
@@ -8,14 +8,20 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-06-26               LA_Rapides         849  16.326531
+ 2020-06-26             ME_Penobscot         145  -0.224599
+ 2020-06-26              OK_Okmulgee         195   0.181818
+ 2020-06-26               OR_Douglas         124  -0.114286
+ 2020-06-26              TN_Davidson        1669   0.263437
+ 2020-06-26                TX_Upshur         139   2.475000
+ 2020-06-25                   FL_Lee         800  16.391304
+ 2020-06-25                  FL_Polk        2183   0.320629
  2020-06-25               GA_Jackson         103  -0.104348
  2020-06-25               GA_Lowndes         514   0.223810
  2020-06-25  NY_Onondaga_Corrections         257   0.122271
  2020-06-25                 OK_Grady         144   0.125000
  2020-06-25                  OR_Linn         119  18.833333
- 2020-06-25              TN_Davidson        1321  -0.212753
  2020-06-25        VA_Virginia_Beach         240  -0.794344
- 2020-06-24                   FL_Lee         800  16.391304
  2020-06-24             GA_Effingham         146  -0.109756
  2020-06-24               GA_Lowndes         420  -0.178082
  2020-06-24                   ID_Ada         619  -0.164642
