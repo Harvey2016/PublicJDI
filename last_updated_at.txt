@@ -1,4 +1,4 @@
-2020-06-30 23:12:14
+2020-07-01 23:12:26
 
 Population = 0:
 Empty DataFrame
@@ -8,11 +8,13 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
- 2020-06-30               LA_Bossier        1958   0.852412
+ 2020-07-01             MA_Worcester         487   0.124711
+ 2020-07-01                 MN_Anoka         105  -0.146341
+ 2020-07-01            MT_Silver_Bow         105  -0.102564
+ 2020-06-30                   FL_Lee         800  16.391304
+ 2020-06-30               LA_Bossier        1958   0.776770
  2020-06-30                 MN_Anoka         123  -0.108696
  2020-06-30            MT_Silver_Bow         117   0.103774
- 2020-06-30                OH_Lorain         211  -0.124481
- 2020-06-29                   FL_Lee         800  16.391304
  2020-06-29                  OR_Linn         122   7.714286
  2020-06-29                  UT_Iron         141  13.100000
  2020-06-29               WA_Cowlitz         130   0.101695
