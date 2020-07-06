@@ -1,4 +1,4 @@
-2020-07-04 23:11:56
+2020-07-05 23:12:07
 
 Population = 0:
 Empty DataFrame
@@ -8,12 +8,15 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-07-05                 OK_Grady         144   0.125000
+ 2020-07-05               PA_Clinton         168  -0.203791
+ 2020-07-05              TN_Davidson         339  -0.794670
+ 2020-07-04                   FL_Lee         800  16.391304
+ 2020-07-04               LA_Bossier        1990   0.805808
  2020-07-04              MN_St_Louis         137   0.122951
  2020-07-04      VA_New_River_Valley         120  -0.200000
  2020-07-04               VA_Roanoke         155   0.107143
  2020-07-03                FL_DeSoto         162   0.620000
- 2020-07-03                   FL_Lee         800  16.391304
- 2020-07-03               LA_Bossier        1983   0.799456
  2020-07-03                  NM_Luna         271   0.101626
  2020-07-03                 OK_Grady         128  -0.111111
  2020-07-03            SC_Darlington         132   0.320000
