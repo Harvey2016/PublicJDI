@@ -1,4 +1,4 @@
-2020-07-08 23:22:41
+2020-07-09 23:12:30
 
 Population = 0:
 Empty DataFrame
@@ -8,14 +8,20 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-07-09              AL_St_Clair         194  -0.145374
+ 2020-07-09                FL_Marion        1534   6.670000
+ 2020-07-09                KY_Carter         113  -0.137405
+ 2020-07-09                LA_Acadia         174  -0.345865
+ 2020-07-09                 MS_Jones         137  -0.127389
+ 2020-07-09                  ND_Cass         232   0.633803
+ 2020-07-09                 NV_Clark        3310  -0.196017
+ 2020-07-09                 SC_Aiken         391  -0.301786
+ 2020-07-08                   FL_Lee        1059  22.021739
+ 2020-07-08               LA_Bossier        2085   0.892015
  2020-07-08       NV_Clark_Henderson         310  -0.104046
  2020-07-08              OH_Pickaway         101  -0.106195
- 2020-07-08               PA_Clinton         211   0.255952
- 2020-07-08              TN_Davidson        1479  -0.111178
  2020-07-08                WA_Kitsap         201  -0.110619
- 2020-07-07                   FL_Lee        1055  21.934783
  2020-07-07                GA_Walker         511   0.756014
- 2020-07-07               LA_Bossier        2063   0.872051
  2020-07-07             MI_Kalamazoo         145   0.106870
  2020-07-07          WA_Grays_Harbor         123  -0.121429
  2020-07-07       WA_King_Des_Moines         359  -0.102500
