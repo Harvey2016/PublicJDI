@@ -1,4 +1,4 @@
-2020-07-12 23:13:09
+2020-07-13 23:12:56
 
 Population = 0:
 Empty DataFrame
@@ -8,12 +8,16 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-07-13                AL_Marion         142  -0.101266
+ 2020-07-13                AR_Saline         142   0.118110
+ 2020-07-13               FL_Brevard         440  -0.699248
+ 2020-07-13               GA_Lowndes         477   1.168182
+ 2020-07-12                   FL_Lee        1058  22.000000
  2020-07-12               GA_Lowndes         220  -0.541667
+ 2020-07-12               LA_Bossier        2126   0.929220
  2020-07-11                AL_Marion         162   0.109589
  2020-07-11              AL_St_Clair         153   1.125000
- 2020-07-11                   FL_Lee        1057  21.978261
  2020-07-11               GA_Jackson         121   0.110092
- 2020-07-11               LA_Bossier        2109   0.913793
  2020-07-11         MN_Hennepin_Jail         350  -0.104859
  2020-07-11                 OK_Grady         160   0.111111
  2020-07-11      VA_New_River_Valley         789   5.575000
