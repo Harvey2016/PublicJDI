@@ -1,4 +1,4 @@
-2020-07-15 23:12:48
+2020-07-16 23:13:12
 
 Population = 0:
 Empty DataFrame
@@ -8,14 +8,21 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-07-16                AL_DeKalb         194   0.141176
+ 2020-07-16                 IL_Adams         104  -0.111111
+ 2020-07-16                KY_Leslie         203   0.103261
+ 2020-07-16                 LA_Caddo        1104  -0.140856
+ 2020-07-16              OH_Mahoning         348  33.800000
+ 2020-07-16                  UT_Iron         135   0.125000
+ 2020-07-16      VA_New_River_Valley         180  -0.250000
+ 2020-07-16                WA_Skagit         174   0.183673
  2020-07-15               FL_Brevard        1443   0.204508
+ 2020-07-15                   FL_Lee        1054  21.913043
  2020-07-15                KY_Leslie         184   0.128834
- 2020-07-15               KY_Madison         268  -0.129870
+ 2020-07-15               LA_Bossier        2145   0.946461
  2020-07-15            MD_Dorchester         268  -0.129870
  2020-07-15               WA_Cowlitz         128   0.103448
- 2020-07-14                   FL_Lee        1044  21.695652
  2020-07-14                GA_Walker         573   0.106178
- 2020-07-14               LA_Bossier        2141   0.942831
  2020-07-14                MN_Wright         107   0.103093
  2020-07-14                UT_Tooele         171  13.250000
  2020-07-14      VA_New_River_Valley         240  -0.695817
