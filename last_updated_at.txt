@@ -1,4 +1,4 @@
-2020-07-19 23:13:03
+2020-07-20 23:12:42
 
 Population = 0:
 Empty DataFrame
@@ -8,15 +8,17 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-07-20                 LA_Caddo        1119   0.793269
+ 2020-07-20              TN_Davidson        1658   0.229059
+ 2020-07-20       WA_King_Des_Moines         470   0.146341
+ 2020-07-19                   FL_Lee        1046  21.739130
  2020-07-19                  KS_Reno         140  22.333333
+ 2020-07-19               LA_Bossier        2199   0.995463
  2020-07-19                 LA_Caddo         624  -0.436823
- 2020-07-19              TN_Davidson        1349  -0.176937
- 2020-07-18                   FL_Lee        1043  21.673913
+ 2020-07-19                 UT_Weber         695  -0.107831
  2020-07-18               GA_Lowndes         588   0.128599
  2020-07-18               KY_Simpson        3959  17.413953
- 2020-07-18               LA_Bossier        2186   0.983666
  2020-07-18               SC_Pickens         213  -0.112500
- 2020-07-18                 UT_Weber         693  -0.110398
  2020-07-18               VA_Roanoke         177   0.156863
  2020-07-17                GA_DeKalb        1466   0.189935
  2020-07-17             ME_Penobscot         166   0.144828
