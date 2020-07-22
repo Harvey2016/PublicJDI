@@ -1,4 +1,4 @@
-2020-07-22 14:50:59
+2020-07-22 15:22:02
 
 Population = 0:
 Empty DataFrame
@@ -13,16 +13,18 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-22                TN_Monroe         202   -0.326667
  2020-07-22      VA_New_River_Valley         827    4.513333
  2020-07-22                  WA_King        2015  182.181818
- 2020-07-21               LA_Bossier        2210    1.005445
+ 2020-07-21               KY_Simpson         217   -0.944966
  2020-07-21                  ND_Cass         232   -0.117871
  2020-07-21             OH_Champaign         117   -0.120301
- 2020-07-21                 UT_Weber         700   -0.101412
+ 2020-07-21                TN_Monroe         300    0.449275
  2020-07-21       WA_King_Des_Moines         416   -0.114894
+ 2020-07-20                 LA_Caddo        1119    0.793269
  2020-07-20       WA_King_Des_Moines         470    0.146341
  2020-07-18               GA_Lowndes         588    0.128599
  2020-07-18               SC_Pickens         213   -0.112500
  2020-07-18               VA_Roanoke         177    0.156863
  2020-07-17                GA_DeKalb        1466    0.189935
+ 2020-07-17             ME_Penobscot         166    0.144828
  2020-07-17              MN_St_Louis         156    0.122302
  2020-07-17                 NE_Sarpy         107    0.126316
  2020-07-16                AL_DeKalb         194    0.141176
@@ -36,19 +38,23 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-15               WA_Cowlitz         128    0.103448
  2020-07-14                GA_Walker         573    0.106178
  2020-07-14                MN_Wright         107    0.103093
+ 2020-07-14                UT_Tooele         171   13.250000
  2020-07-14               WA_Cowlitz         116   -0.134328
  2020-07-13                AL_Marion         142   -0.101266
  2020-07-13                AR_Saline         142    0.118110
  2020-07-13               FL_Brevard        1198   -0.181135
+ 2020-07-13               GA_Lowndes         477    1.168182
  2020-07-11                AL_Marion         162    0.109589
- 2020-07-11              AL_St_Clair         153   -0.211340
+ 2020-07-11              AL_St_Clair         153    1.125000
  2020-07-11               GA_Jackson         121    0.110092
  2020-07-11         MN_Hennepin_Jail         350   -0.104859
  2020-07-11                 OK_Grady         160    0.111111
+ 2020-07-11          VA_Northwestern         562   17.733333
  2020-07-10             AL_Talladega         275    0.238739
  2020-07-09              AL_St_Clair         194   -0.145374
  2020-07-09                KY_Carter         113   -0.137405
  2020-07-09                 MS_Jones         137   -0.127389
+ 2020-07-09                  ND_Cass         232    0.633803
  2020-07-09                 SC_Aiken         391   -0.301786
  2020-07-08       NV_Clark_Henderson         310   -0.104046
  2020-07-08              OH_Pickaway         101   -0.106195
@@ -58,15 +64,22 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-07          WA_Grays_Harbor         123   -0.121429
  2020-07-07       WA_King_Des_Moines         359   -0.102500
  2020-07-07              WI_Chippewa         119    0.112150
+ 2020-07-06            NC_Cumberland         498    7.163934
  2020-07-06              NM_Sandoval         112    0.142857
+ 2020-07-06        VA_Virginia_Beach        1142    3.758333
  2020-07-05                 OK_Grady         144    0.125000
  2020-07-04              MN_St_Louis         137    0.122951
  2020-07-04               VA_Roanoke         155    0.107143
  2020-07-03                FL_DeSoto         162    0.620000
  2020-07-03                  NM_Luna         271    0.101626
  2020-07-03                 OK_Grady         128   -0.111111
+ 2020-07-03            SC_Darlington         132    0.320000
+ 2020-07-02               AL_Houston         322    2.220000
  2020-07-02                   AL_Lee         289    1.890000
+ 2020-07-02             AL_Talladega         219    1.190000
+ 2020-07-02                AR_Benton         374    2.740000
  2020-07-02              NC_Carteret         113    0.130000
+ 2020-07-02                NC_Gaston         129   -0.711409
  2020-07-02               NC_Sampson         167    0.670000
  2020-07-02             NV_Las_Vegas         245   -0.109091
  2020-07-02                 OH_Lucas         101    0.262500
@@ -80,6 +93,7 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-01            MT_Silver_Bow         105   -0.102564
  2020-06-30                 MN_Anoka         123   -0.108696
  2020-06-30            MT_Silver_Bow         117    0.103774
+ 2020-06-29                  UT_Iron         141   13.100000
  2020-06-29               WA_Cowlitz         130    0.101695
  2020-06-28                KY_Carter         128   -0.292818
  2020-06-28                 MN_Anoka         136    0.133333
@@ -88,6 +102,7 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-26              OK_Okmulgee         195    0.181818
  2020-06-26               OR_Douglas         124   -0.114286
  2020-06-25               GA_Jackson         103   -0.104348
+ 2020-06-25               GA_Lowndes         514    0.223810
  2020-06-25  NY_Onondaga_Corrections         257    0.122271
  2020-06-25                 OK_Grady         144    0.125000
  2020-06-24             GA_Effingham         146   -0.109756
@@ -102,6 +117,7 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-21                FL_Hendry         167    3.638889
  2020-06-21                 OK_Grady         144    0.125000
  2020-06-20               GA_Catoosa         144    0.116279
+ 2020-06-19               IN_Madison         236   77.666667
  2020-06-19               OR_Douglas         121    2.025000
  2020-06-18         IA_Pottawattamie         129   -0.145695
  2020-06-18  NY_Onondaga_Corrections         181    0.124224
@@ -111,6 +127,7 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-17                 OK_Grady         128   -0.111111
  2020-06-16                AR_Saline         118   -0.119403
  2020-06-16                CA_Madera         428   -0.124744
+ 2020-06-16               GA_Lowndes         507    3.225000
  2020-06-16            MT_Silver_Bow         110    0.100000
  2020-06-16             NV_Las_Vegas         271   -0.117264
  2020-06-16              WA_Franklin         179    0.104938
@@ -124,10 +141,11 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-13              OH_Pickaway         101    0.216867
  2020-06-13                 OK_Grady         144    0.125000
  2020-06-12                AL_Shelby         502    0.128090
- 2020-06-12                CA_Merced         660    3.647887
  2020-06-12            OH_Washington         108    0.113402
  2020-06-12               OR_Douglas         107    0.273810
+ 2020-06-10                IN_Marion        1436   -0.231675
  2020-06-10            LA_Beauregard         121    5.368421
+ 2020-06-10              LA_Richland         597   30.421053
  2020-06-10            LA_Tangipahoa         439   22.105263
  2020-06-09         CA_Santa_Barbara         655   -0.348907
  2020-06-09                  IN_Clay         135   -0.123377
@@ -148,7 +166,9 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-06                 OH_Lucas         110    0.100000
  2020-06-06                 TN_Giles         122    0.129630
  2020-06-05               LA_Lincoln         159   -0.277273
+ 2020-06-05                  UT_Iron         119   10.900000
  2020-06-04             NC_Brunswick         198   -0.188525
+ 2020-06-04                 TX_Cooke         141   -0.101911
  2020-06-04                 UT_Davis         269   -0.556837
  2020-06-03              FL_Suwannee         134   -0.167702
  2020-06-03              MN_St_Louis         130    0.101695
@@ -228,6 +248,7 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-04-30                AR_Saline         119   -0.237179
  2020-04-30              KY_Calloway         114   -0.185714
  2020-04-30                 OK_Grady         144    0.125000
+ 2020-04-29                  IL_Kane         342   -0.297741
  2020-04-29               MS_Hancock         175   -0.107143
  2020-04-28               KY_Bourbon         196    0.132948
  2020-04-28              KY_Calloway         140    0.120000
