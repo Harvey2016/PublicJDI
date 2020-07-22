@@ -1,4 +1,4 @@
-2020-07-21 14:15:21
+2020-07-21 23:21:59
 
 Population = 0:
 Empty DataFrame
@@ -8,20 +8,19 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population     Change
+ 2020-07-21               KY_Simpson         217  -0.944966
  2020-07-21                  ND_Cass         232  -0.117871
  2020-07-21             OH_Champaign         117  -0.120301
  2020-07-21                  OR_Linn         126   4.478261
  2020-07-21                TN_Monroe         300   0.449275
  2020-07-21      VA_New_River_Valley         150   1.500000
  2020-07-21       WA_King_Des_Moines         416  -0.114894
- 2020-07-20                   FL_Lee        1047  21.760870
+ 2020-07-20               KY_Simpson        3943  17.170507
  2020-07-20               LA_Bossier        2205   1.000907
  2020-07-20                 LA_Caddo        1119   0.793269
  2020-07-20       WA_King_Des_Moines         470   0.146341
- 2020-07-19                  KS_Reno         140  22.333333
  2020-07-19                 LA_Caddo         624  -0.436823
  2020-07-18               GA_Lowndes         588   0.128599
- 2020-07-18               KY_Simpson        3959  17.413953
  2020-07-18               SC_Pickens         213  -0.112500
  2020-07-18               VA_Roanoke         177   0.156863
  2020-07-17                GA_DeKalb        1466   0.189935
@@ -63,7 +62,6 @@ Scrape_Date      Facility_Identifier  Population     Change
  2020-07-09                LA_Acadia         174  -0.345865
  2020-07-09                 MS_Jones         137  -0.127389
  2020-07-09                  ND_Cass         232   0.633803
- 2020-07-09                 NV_Clark        3310  -0.196017
  2020-07-09                 SC_Aiken         391  -0.301786
  2020-07-08       NV_Clark_Henderson         310  -0.104046
  2020-07-08              OH_Pickaway         101  -0.106195
@@ -114,12 +112,10 @@ Scrape_Date      Facility_Identifier  Population     Change
  2020-06-28      VA_New_River_Valley         773  11.883333
  2020-06-27             MI_Van_Buren         105  -0.110169
  2020-06-27                   NM_Lea         131  -0.108844
- 2020-06-26               LA_Rapides         849  16.326531
  2020-06-26             ME_Penobscot         145  -0.224599
  2020-06-26              OK_Okmulgee         195   0.181818
  2020-06-26               OR_Douglas         124  -0.114286
  2020-06-26                TX_Upshur         139   2.475000
- 2020-06-25                  FL_Polk        2183   0.320629
  2020-06-25               GA_Jackson         103  -0.104348
  2020-06-25               GA_Lowndes         514   0.223810
  2020-06-25  NY_Onondaga_Corrections         257   0.122271
@@ -302,9 +298,7 @@ Scrape_Date      Facility_Identifier  Population     Change
  2020-04-24                  KY_Knox         270  -0.120521
  2020-04-23                CA_Nevada         178   0.155844
  2020-04-23                  TN_Knox         916  -0.345714
- 2020-04-22            ID_Twin_Falls         236  -0.171930
  2020-04-22               KY_Whitley         223  -0.115079
- 2020-04-21            ID_Twin_Falls         285   0.182573
  2020-04-20                 IN_Boone         110  -0.214286
  2020-04-20                 OK_Grady         128  -0.111111
  2020-04-19                 OK_Grady         144   0.125000
