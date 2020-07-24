@@ -1,4 +1,4 @@
-2020-07-23 23:42:16
+2020-07-24 12:03:19
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,8 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-07-24              AR_Crawford         145   -0.104938
+ 2020-07-24             LA_St_Landry         234   -0.113636
  2020-07-23                  IN_Clay         176    0.121019
  2020-07-22              MN_St_Louis         147   -0.103659
  2020-07-22                 OH_Lucas         121    0.163462
@@ -15,13 +17,15 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-22                TN_Monroe         202   -0.326667
  2020-07-22      VA_New_River_Valley         827    4.513333
  2020-07-22                  WA_King        2015  182.181818
- 2020-07-21               LA_Bossier        2210    1.005445
  2020-07-21                  ND_Cass         232   -0.117871
  2020-07-21             OH_Champaign         117   -0.120301
- 2020-07-21                 UT_Weber         700   -0.101412
  2020-07-21       WA_King_Des_Moines         416   -0.114894
  2020-07-20                 LA_Caddo        1119    0.793269
+ 2020-07-20              TN_Davidson        1658    0.229059
  2020-07-20       WA_King_Des_Moines         470    0.146341
+ 2020-07-19                  KS_Reno         140   22.333333
+ 2020-07-19              TN_Davidson        1349   -0.176937
+ 2020-07-18                 FL_Pasco        1235    5.175000
  2020-07-18               GA_Lowndes         588    0.128599
  2020-07-18               SC_Pickens         213   -0.112500
  2020-07-18               VA_Roanoke         177    0.156863
@@ -36,7 +40,9 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-16                  UT_Iron         135    0.125000
  2020-07-16                WA_Skagit         174    0.183673
  2020-07-15                KY_Leslie         184    0.128834
+ 2020-07-15               KY_Madison         268   -0.129870
  2020-07-15            MD_Dorchester         268   -0.129870
+ 2020-07-15              SC_Florence         264    1.640000
  2020-07-15               WA_Cowlitz         128    0.103448
  2020-07-14                GA_Walker         573    0.106178
  2020-07-14                MN_Wright         107    0.103093
@@ -57,15 +63,18 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-09                KY_Carter         113   -0.137405
  2020-07-09                 MS_Jones         137   -0.127389
  2020-07-09                  ND_Cass         232    0.633803
+ 2020-07-09                 NV_Clark        3310   -0.196017
  2020-07-09                 SC_Aiken         391   -0.301786
  2020-07-08       NV_Clark_Henderson         310   -0.104046
  2020-07-08              OH_Pickaway         101   -0.106195
+ 2020-07-08              TN_Davidson        1479   -0.111178
  2020-07-08                WA_Kitsap         201   -0.110619
  2020-07-07                GA_Walker         511    0.756014
  2020-07-07             MI_Kalamazoo         145    0.106870
  2020-07-07          WA_Grays_Harbor         123   -0.121429
  2020-07-07       WA_King_Des_Moines         359   -0.102500
  2020-07-07              WI_Chippewa         119    0.112150
+ 2020-07-06             AR_Sebastian        4107   19.535000
  2020-07-06            NC_Cumberland         498    7.163934
  2020-07-06              NM_Sandoval         112    0.142857
  2020-07-06        VA_Virginia_Beach        1142    3.758333
@@ -79,6 +88,7 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-02                   AL_Lee         289    1.890000
  2020-07-02             AL_Talladega         219    1.190000
  2020-07-02                AR_Benton         374    2.740000
+ 2020-07-02             CA_Mendocino         245    0.225000
  2020-07-02              NC_Carteret         113    0.130000
  2020-07-02                NC_Gaston         129   -0.711409
  2020-07-02               NC_Sampson         167    0.670000
@@ -89,6 +99,7 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-02                  TX_Polk         158    0.580000
  2020-07-02              TX_Rockwall         219    1.190000
  2020-07-02               WA_Cowlitz         119   -0.118519
+ 2020-07-01               LA_Bossier        1968    0.785844
  2020-07-01             MA_Worcester         487    0.124711
  2020-07-01                 MN_Anoka         105   -0.146341
  2020-07-01            MT_Silver_Bow         105   -0.102564
