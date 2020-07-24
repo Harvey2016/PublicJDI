@@ -1,4 +1,4 @@
-2020-07-22 15:22:02
+2020-07-23 23:42:16
 
 Population = 0:
 Empty DataFrame
@@ -8,15 +8,17 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-07-23                  IN_Clay         176    0.121019
  2020-07-22              MN_St_Louis         147   -0.103659
  2020-07-22                 OH_Lucas         121    0.163462
+ 2020-07-22              OH_Mahoning         404    0.116022
  2020-07-22                TN_Monroe         202   -0.326667
  2020-07-22      VA_New_River_Valley         827    4.513333
  2020-07-22                  WA_King        2015  182.181818
- 2020-07-21               KY_Simpson         217   -0.944966
+ 2020-07-21               LA_Bossier        2210    1.005445
  2020-07-21                  ND_Cass         232   -0.117871
  2020-07-21             OH_Champaign         117   -0.120301
- 2020-07-21                TN_Monroe         300    0.449275
+ 2020-07-21                 UT_Weber         700   -0.101412
  2020-07-21       WA_King_Des_Moines         416   -0.114894
  2020-07-20                 LA_Caddo        1119    0.793269
  2020-07-20       WA_King_Des_Moines         470    0.146341
@@ -73,7 +75,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-03                FL_DeSoto         162    0.620000
  2020-07-03                  NM_Luna         271    0.101626
  2020-07-03                 OK_Grady         128   -0.111111
- 2020-07-03            SC_Darlington         132    0.320000
  2020-07-02               AL_Houston         322    2.220000
  2020-07-02                   AL_Lee         289    1.890000
  2020-07-02             AL_Talladega         219    1.190000
@@ -101,6 +102,7 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-27                   NM_Lea         131   -0.108844
  2020-06-26              OK_Okmulgee         195    0.181818
  2020-06-26               OR_Douglas         124   -0.114286
+ 2020-06-26                TX_Upshur         139    2.475000
  2020-06-25               GA_Jackson         103   -0.104348
  2020-06-25               GA_Lowndes         514    0.223810
  2020-06-25  NY_Onondaga_Corrections         257    0.122271
@@ -168,6 +170,7 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-05               LA_Lincoln         159   -0.277273
  2020-06-05                  UT_Iron         119   10.900000
  2020-06-04             NC_Brunswick         198   -0.188525
+ 2020-06-04                TN_Monroe         164   -0.127660
  2020-06-04                 TX_Cooke         141   -0.101911
  2020-06-04                 UT_Davis         269   -0.556837
  2020-06-03              FL_Suwannee         134   -0.167702
