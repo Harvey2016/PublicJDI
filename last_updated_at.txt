@@ -1,4 +1,4 @@
-2020-07-24 14:56:21
+2020-07-24 23:10:26
 
 Population = 0:
 Empty DataFrame
@@ -10,6 +10,8 @@ Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
  2020-07-24              AR_Crawford         145   -0.104938
  2020-07-24             LA_St_Landry         234   -0.113636
+ 2020-07-24                MN_Dakota         110   -0.120000
+ 2020-07-24                 NC_Moore         106    0.104167
  2020-07-23                  IN_Clay         176    0.121019
  2020-07-22              MN_St_Louis         147   -0.103659
  2020-07-22                 OH_Lucas         121    0.163462
