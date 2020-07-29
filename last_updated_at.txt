@@ -1,4 +1,4 @@
-2020-07-27 23:13:15
+2020-07-28 23:13:03
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,11 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-07-28             ID_Nez_Perce         103    0.144444
+ 2020-07-28                KY_Taylor         172    0.116883
+ 2020-07-28                 MN_Anoka         142   -0.118012
+ 2020-07-28                   NM_Lea         140    0.129032
+ 2020-07-28             TN_Robertson         402   -0.196000
  2020-07-27                 OK_Grady         160    0.111111
  2020-07-27             TN_Robertson         500    0.262626
  2020-07-27               TX_Hopkins         167   -0.102151
@@ -121,7 +126,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-30               LA_Bossier        1958    0.852412
  2020-06-30                 MN_Anoka         123   -0.108696
  2020-06-30            MT_Silver_Bow         117    0.103774
- 2020-06-29               LA_Bossier        1057   -0.404507
  2020-06-29                  UT_Iron         141   13.100000
  2020-06-29               WA_Cowlitz         130    0.101695
  2020-06-28                KY_Carter         128   -0.292818
