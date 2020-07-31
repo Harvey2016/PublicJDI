@@ -1,4 +1,4 @@
-2020-07-29 23:12:38
+2020-07-30 23:12:01
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,9 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-07-30                 CO_Adams         531   -0.110553
+ 2020-07-30              KY_Woodford         112    0.108911
+ 2020-07-30                NC_Gaston         161    0.158273
  2020-07-28             ID_Nez_Perce         103    0.144444
  2020-07-28                KY_Taylor         172    0.116883
  2020-07-28                 MN_Anoka         142   -0.118012
