@@ -1,4 +1,4 @@
-2020-07-30 23:12:01
+2020-08-12 17:35:46
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,53 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-08-12            LA_Beauregard         119   -0.190476
+ 2020-08-12                 LA_Caddo         279   -0.756332
+ 2020-08-12                LA_Vernon         120    0.111111
+ 2020-08-12                ND_Ramsey         101    0.147727
+ 2020-08-12                NY_Oneida         208   -0.103448
+ 2020-08-12      VA_New_River_Valley         300    9.000000
+ 2020-08-11                GA_Camden         117   -0.126866
+ 2020-08-11               KS_Shawnee         437   23.277778
+ 2020-08-11               WA_Cowlitz         126   -0.112676
+ 2020-08-11             WA_Nisqually         146   -0.104294
+ 2020-08-10               GA_Lowndes         567    1.700000
+ 2020-08-10                 IL_Adams         125   -0.119718
+ 2020-08-10               VA_Roanoke         167   -0.116402
+ 2020-08-10               WA_Cowlitz         142    0.100775
+ 2020-08-10       WA_King_Des_Moines         442    0.118987
+ 2020-08-09               GA_Lowndes         210   -0.622302
+ 2020-08-09         MN_Hennepin_Jail         434    0.107143
+ 2020-08-09          WA_Grays_Harbor         135    0.106557
+ 2020-08-08                GA_Monroe         107    0.114583
+ 2020-08-08                 OH_Lucas         132    0.306931
+ 2020-08-08               VA_Roanoke         189    0.188679
+ 2020-08-07               GA_Lowndes         539    1.566667
+ 2020-08-07               IL_McHenry         169   -0.187500
+ 2020-08-07      VA_New_River_Valley         860   13.333333
+ 2020-08-06               GA_Lowndes         210   -0.620253
+ 2020-08-06               NE_Douglas        1189    0.316722
+ 2020-08-05              IL_Kankakee         255   -0.108392
+ 2020-08-05               NE_Douglas         903   -0.258012
+ 2020-08-05                 OH_Lucas         103    0.144444
+ 2020-08-05            OH_Muskingham         136    0.152542
+ 2020-08-05                TX_Potter         380   -0.101655
+ 2020-08-04             ID_Nez_Perce         102    0.133333
+ 2020-08-04                  NM_Luna         322    0.106529
+ 2020-08-04                OH_Lorain         214   -0.115702
+ 2020-08-04               WA_Cowlitz         124   -0.126761
+ 2020-08-03                FL_Martin         431    7.288462
+ 2020-08-03              NM_Sandoval         105    0.129032
+ 2020-08-03                 OK_Grady         160    0.111111
+ 2020-08-02      VA_New_River_Valley         480   -0.200000
+ 2020-08-01                KY_Leslie         228    0.106796
+ 2020-08-01               KY_Madison         267   -0.115894
+ 2020-08-01            MD_Dorchester         267   -0.115894
+ 2020-08-01               MO_Johnson         105    0.105263
+ 2020-08-01      VA_New_River_Valley         600   19.000000
+ 2020-08-01               VA_Roanoke         184    0.108434
+ 2020-07-31                 CO_Adams         600    0.129944
+ 2020-07-31                 OK_Mayes         101   -0.151261
  2020-07-30                 CO_Adams         531   -0.110553
  2020-07-30              KY_Woodford         112    0.108911
  2020-07-30                NC_Gaston         161    0.158273
