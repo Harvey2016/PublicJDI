@@ -1,4 +1,4 @@
-2020-08-12 23:12:25
+2020-08-14 23:11:47
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,10 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-08-14               GA_Lowndes         270   -0.512635
+ 2020-08-14                 OH_Lucas         122    0.220000
+ 2020-08-13                AR_Saline         117   -0.152174
+ 2020-08-13                 LA_Caddo        1148    3.114695
  2020-08-12            LA_Beauregard         119   -0.190476
  2020-08-12                 LA_Caddo         279   -0.756332
  2020-08-12                LA_Vernon         120    0.111111
@@ -67,7 +71,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-27             TN_Robertson         500    0.262626
  2020-07-27               TX_Hopkins         167   -0.102151
  2020-07-27      VA_New_River_Valley         120    3.000000
- 2020-07-26                GA_Walker         670    0.169284
  2020-07-26                 MN_Anoka         153    0.125000
  2020-07-26         MN_Hennepin_Jail         400    0.120448
  2020-07-26                NC_Stanly         113    0.130000
@@ -89,18 +92,14 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-22      VA_New_River_Valley         827    4.513333
  2020-07-22                  WA_King        2015  182.181818
  2020-07-21                  ND_Cass         232   -0.117871
- 2020-07-21             OH_Champaign         117   -0.120301
  2020-07-21       WA_King_Des_Moines         416   -0.114894
  2020-07-20                 LA_Caddo        1119    0.793269
- 2020-07-20              TN_Davidson        1658    0.229059
  2020-07-20       WA_King_Des_Moines         470    0.146341
  2020-07-19                  KS_Reno         140   22.333333
- 2020-07-19              TN_Davidson        1349   -0.176937
  2020-07-18                 FL_Pasco        1235    5.175000
  2020-07-18               GA_Lowndes         588    0.128599
  2020-07-18               SC_Pickens         213   -0.112500
  2020-07-18               VA_Roanoke         177    0.156863
- 2020-07-17                GA_DeKalb        1466    0.189935
  2020-07-17             ME_Penobscot         166    0.144828
  2020-07-17              MN_St_Louis         156    0.122302
  2020-07-17                 NE_Sarpy         107    0.126316
@@ -115,7 +114,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-15            MD_Dorchester         268   -0.129870
  2020-07-15              SC_Florence         264    1.640000
  2020-07-15               WA_Cowlitz         128    0.103448
- 2020-07-14                GA_Walker         573    0.106178
  2020-07-14                MN_Wright         107    0.103093
  2020-07-14                UT_Tooele         171   13.250000
  2020-07-14               WA_Cowlitz         116   -0.134328
@@ -138,14 +136,11 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-09                 SC_Aiken         391   -0.301786
  2020-07-08       NV_Clark_Henderson         310   -0.104046
  2020-07-08              OH_Pickaway         101   -0.106195
- 2020-07-08              TN_Davidson        1479   -0.111178
  2020-07-08                WA_Kitsap         201   -0.110619
- 2020-07-07                GA_Walker         511    0.756014
  2020-07-07             MI_Kalamazoo         145    0.106870
  2020-07-07          WA_Grays_Harbor         123   -0.121429
  2020-07-07       WA_King_Des_Moines         359   -0.102500
  2020-07-07              WI_Chippewa         119    0.112150
- 2020-07-06             AR_Sebastian        4107   19.535000
  2020-07-06            NC_Cumberland         498    7.163934
  2020-07-06              NM_Sandoval         112    0.142857
  2020-07-06        VA_Virginia_Beach        1142    3.758333
@@ -364,7 +359,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-04-19                 OK_Grady         144    0.125000
  2020-04-18             NV_Las_Vegas         281    0.110672
  2020-04-16            KY_Crittenden         117   -0.164286
- 2020-04-15                CA_Merced         129   -0.104167
  2020-04-15                  FL_Levy         104   -0.251799
  2020-04-15            IN_Washington         125   -0.107143
  2020-04-15                 KY_Casey         251   -0.103571
@@ -576,10 +570,8 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-02-06              GA_Brantley         131    0.159292
  2020-02-06                 KS_Chase         140    0.147541
  2020-02-06                TN_Sevier         442   -0.150000
- 2020-02-04                CA_Merced         177    0.120253
  2020-02-04               GA_Decatur         110   -0.112903
  2020-02-03               VA_Roanoke         171   -0.113990
- 2020-02-02                CA_Merced         159    0.135714
  2020-02-01              MN_Beltrami         107   -0.108333
  2020-02-01                OK_Rogers         264   -0.114094
  2020-02-01                UT_Tooele         234    0.125000
