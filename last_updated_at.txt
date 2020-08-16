@@ -1,4 +1,4 @@
-2020-08-14 23:11:47
+2020-08-15 23:11:49
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,10 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-08-15               GA_Lowndes         558    1.066667
+ 2020-08-15                 OH_Lucas         151    0.237705
+ 2020-08-15             OR_Josephine         154   -0.114943
+ 2020-08-15              TX_Angelina         218   -0.120968
  2020-08-14               GA_Lowndes         270   -0.512635
  2020-08-14                 OH_Lucas         122    0.220000
  2020-08-13                AR_Saline         117   -0.152174
