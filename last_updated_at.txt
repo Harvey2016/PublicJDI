@@ -1,4 +1,4 @@
-2020-08-17 23:14:56
+2020-08-18 23:12:57
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,13 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-08-18               GA_Lowndes         680    0.223022
+ 2020-08-18               KS_Shawnee         443   43.300000
+ 2020-08-18        MO_Cape_Girardeau         160         inf
+ 2020-08-18                 NC_Burke         120   -0.111111
+ 2020-08-18              NC_Johnston         265    0.183036
+ 2020-08-18               PA_Clinton         185    3.302326
+ 2020-08-18      VA_New_River_Valley         480   15.000000
  2020-08-17                MN_Dakota         121    0.100000
  2020-08-17               MO_Daviess         147    0.105263
  2020-08-17                  ND_Ward         163    0.116438
