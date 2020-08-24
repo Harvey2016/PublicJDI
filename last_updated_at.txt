@@ -1,4 +1,4 @@
-2020-08-18 23:12:57
+2020-08-24 04:32:19
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,26 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-08-24             MN_Crow_Wing         108    0.102041
+ 2020-08-24              NM_Sandoval         102    0.133333
+ 2020-08-24            OH_Washington         129    0.216981
+ 2020-08-23                 MN_Anoka         153    0.133333
+ 2020-08-23                 OH_Lucas         109   -0.141732
+ 2020-08-22             AL_Jefferson         870    0.372240
+ 2020-08-22            KY_Crittenden         121    0.100000
+ 2020-08-22        MO_Cape_Girardeau         174    0.101266
+ 2020-08-22                 MS_Yazoo         386   -0.283859
+ 2020-08-22               VA_Roanoke         192    0.156627
+ 2020-08-21              ID_Kootenai         277   -0.147692
+ 2020-08-21               IN_Clinton         158    0.327731
+ 2020-08-20                AZ_Mohave         315    2.888889
+ 2020-08-20               GA_Lowndes         581    0.100379
+ 2020-08-20                 KY_Adair         103   -0.119658
+ 2020-08-20                 KY_Wayne         127    0.154545
+ 2020-08-20                  NM_Luna         322    0.133803
+ 2020-08-20                 OH_Lucas         120    0.176471
+ 2020-08-19               GA_Lowndes         528   -0.223529
+ 2020-08-19                 OH_Lucas         102    0.200000
  2020-08-18               GA_Lowndes         680    0.223022
  2020-08-18               KS_Shawnee         443   43.300000
  2020-08-18        MO_Cape_Girardeau         160         inf
