@@ -1,4 +1,4 @@
-2020-08-24 04:32:19
+2020-08-24 23:12:42
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,8 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-08-24            LA_Beauregard         136    0.105691
+ 2020-08-24           LA_Plaquemines         305   -0.387550
  2020-08-24             MN_Crow_Wing         108    0.102041
  2020-08-24              NM_Sandoval         102    0.133333
  2020-08-24            OH_Washington         129    0.216981
