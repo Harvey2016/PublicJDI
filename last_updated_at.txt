@@ -1,4 +1,4 @@
-2020-08-25 23:13:59
+2020-08-26 23:12:53
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,10 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-08-26              LA_Franklin         796    0.107093
+ 2020-08-26              LA_Richland         737    0.128637
+ 2020-08-26                 OH_Lucas         124    0.305263
+ 2020-08-26      VA_New_River_Valley         120    0.333333
  2020-08-25           LA_Plaquemines         261   -0.144262
  2020-08-25             WA_Nisqually         152   -0.126437
  2020-08-24            LA_Beauregard         136    0.105691
