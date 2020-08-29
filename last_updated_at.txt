@@ -1,4 +1,4 @@
-2020-08-28 23:13:02
+2020-08-29 09:31:39
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,10 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-08-29           LA_Plaquemines         509    8.603774
+ 2020-08-29                  OH_Wood         121    0.110092
+ 2020-08-29    VA_Blue_Ridge_Bedford         105    0.105263
+ 2020-08-29               VA_Roanoke         194    0.102273
  2020-08-28                IN_Fulton         124    8.538462
  2020-08-28         MN_Hennepin_Jail         495    0.122449
  2020-08-28                 NE_Sarpy         110    0.122449
