@@ -1,4 +1,4 @@
-2020-09-05 23:13:42
+2020-09-06 23:13:49
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,7 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-09-06             SD_Minnehaha         486    1.505155
  2020-09-05             SD_Minnehaha         194   -0.593291
  2020-09-05               VA_Roanoke         185    0.121212
  2020-09-03                  KY_Clay         223    0.143590
