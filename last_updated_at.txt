@@ -1,4 +1,4 @@
-2020-09-09 23:17:26
+2020-09-10 23:16:06
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,9 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-09-10              GA_Gwinnett         940   -0.571949
+ 2020-09-10               OK_Wagoner         102    0.758621
+ 2020-09-10              TX_Rockwall         231   -0.118321
  2020-09-09                AR_Baxter         105   -0.102564
  2020-09-09                 IL_Adams         145    0.106870
  2020-09-09                MN_Dakota         136   -0.150000
