@@ -1,4 +1,4 @@
-2020-09-11 23:16:22
+2020-09-12 23:15:09
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,12 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-09-12              AR_Ouachita         106    0.164835
+ 2020-09-12              GA_Gwinnett        1340   -0.403649
+ 2020-09-12                 LA_Caddo         550   -0.569640
+ 2020-09-12                 NE_Sarpy         130    0.111111
+ 2020-09-12             OR_Clackamas         171   -0.131980
+ 2020-09-12               VA_Roanoke         172    0.109677
  2020-09-11              GA_Gwinnett        2247    1.390426
  2020-09-11                 OH_Lucas         117    0.147059
  2020-09-11                 TX_Brown         153   -0.150000
