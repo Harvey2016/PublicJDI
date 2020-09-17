@@ -1,4 +1,4 @@
-2020-09-15 23:14:54
+2020-09-16 23:13:52
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,7 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-09-16               PA_Clinton         174   -0.107692
  2020-09-15                MN_Wright         125    0.126126
  2020-09-14             LA_Morehouse         598    0.191235
  2020-09-14           LA_Plaquemines         340   -0.348659
