@@ -1,4 +1,4 @@
-2020-09-16 23:13:52
+2020-09-17 23:19:37
 
 Population = 0:
 Empty DataFrame
@@ -11,7 +11,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-09-16               PA_Clinton         174   -0.107692
  2020-09-15                MN_Wright         125    0.126126
  2020-09-14             LA_Morehouse         598    0.191235
- 2020-09-14           LA_Plaquemines         340   -0.348659
  2020-09-14                 OH_Lucas         111   -0.125984
  2020-09-14             SD_Minnehaha         502    0.183962
  2020-09-14       WA_King_Des_Moines         479    0.137767
