@@ -1,4 +1,4 @@
-2020-09-22 23:19:48
+2020-09-24 11:52:59
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,8 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-09-24                 OH_Lucas         116    0.171717
+ 2020-09-23              FL_Okaloosa         725    0.117103
  2020-09-21              NM_Sandoval         101    0.122222
  2020-09-20                 MN_Anoka         172    0.102564
  2020-09-20                 OH_Lucas         102   -0.163934
@@ -23,16 +25,13 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-09-14                 OH_Lucas         111   -0.125984
  2020-09-14             SD_Minnehaha         502    0.183962
  2020-09-14       WA_King_Des_Moines         479    0.137767
- 2020-09-13              GA_Gwinnett        2242    0.673134
  2020-09-13                 LA_Caddo        1282    1.330909
  2020-09-13                 OH_Lucas         127    0.123894
  2020-09-12              AR_Ouachita         106    0.164835
- 2020-09-12              GA_Gwinnett        1340   -0.403649
  2020-09-12                 LA_Caddo         550   -0.569640
  2020-09-12                 NE_Sarpy         130    0.111111
  2020-09-12             OR_Clackamas         171   -0.131980
  2020-09-12               VA_Roanoke         172    0.109677
- 2020-09-11              GA_Gwinnett        2247    1.390426
  2020-09-11                 OH_Lucas         117    0.147059
  2020-09-11                 TX_Brown         153   -0.150000
  2020-09-10               OK_Wagoner         102    0.758621
@@ -336,7 +335,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-04                 TX_Cooke         141   -0.101911
  2020-06-04                 UT_Davis         269   -0.556837
  2020-06-03             CA_Mendocino         160         inf
- 2020-06-03              FL_Suwannee         134   -0.167702
  2020-06-03              MN_St_Louis         130    0.101695
  2020-06-03                 NE_Sarpy         110   -0.160305
  2020-06-03             NV_Las_Vegas         249   -0.113879
@@ -402,7 +400,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-05-03             NV_Las_Vegas         306    0.100719
  2020-05-03                 WA_Clark         372    0.244147
  2020-05-02                 WA_Clark         299   -0.176309
- 2020-05-01                FL_Sumter         354   -0.184332
  2020-05-01               KY_Bourbon         164   -0.163265
  2020-05-01                 KY_Grant         172   -0.122449
  2020-05-01                KY_Leslie         172   -0.122449
@@ -502,7 +499,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-03-28                  GA_Ware         379   -0.101896
  2020-03-27                  UT_Iron         133   -0.147436
  2020-03-26              AR_Faulkner         270   -0.102990
- 2020-03-26              FL_Bradford         101   -0.106195
  2020-03-26             GA_Habersham         113   -0.124031
  2020-03-26                 KY_Clark         221   -0.119522
  2020-03-26              ND_Burleigh         193   -0.138393
@@ -537,7 +533,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-03-19               OR_Yamhill         101   -0.198413
  2020-03-19                 WA_Clark         505   -0.103020
  2020-03-19             WI_La_Crosse         127   -0.130137
- 2020-03-18            FL_Santa_Rosa         650    0.140351
  2020-03-18               ID_Bingham         101   -0.121739
  2020-03-18                KY_Nelson         123   -0.121429
  2020-03-18               LA_Lincoln         236   -0.132353
@@ -548,7 +543,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-03-18               OR_Douglas         164   -0.145833
  2020-03-18               OR_Yamhill         126   -0.112676
  2020-03-17                AL_Coffee         102   -0.196850
- 2020-03-17            FL_Santa_Rosa         570   -0.110764
  2020-03-17                GA_Monroe         110   -0.179104
  2020-03-17            IN_Washington         142   -0.154762
  2020-03-17               KY_Bourbon         216   -0.142857
