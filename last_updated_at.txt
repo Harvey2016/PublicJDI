@@ -1,4 +1,4 @@
-2020-09-24 11:52:59
+2020-09-28 09:54:09
 
 Population = 0:
 Empty DataFrame
@@ -8,6 +8,12 @@ Index: []
 
 Drastic Change:
 Scrape_Date      Facility_Identifier  Population      Change
+ 2020-09-28         GA_Athens_Clarke         102    0.159091
+ 2020-09-28       NV_Clark_Henderson         338   -0.148615
+ 2020-09-27              NM_Sandoval         112    0.131313
+ 2020-09-27                 OH_Lucas         101   -0.158333
+ 2020-09-26                NJ_Bergen         334    0.117057
+ 2020-09-25            LA_Washington         179   -0.118227
  2020-09-24                 OH_Lucas         116    0.171717
  2020-09-23              FL_Okaloosa         725    0.117103
  2020-09-21              NM_Sandoval         101    0.122222
@@ -28,7 +34,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-09-13                 LA_Caddo        1282    1.330909
  2020-09-13                 OH_Lucas         127    0.123894
  2020-09-12              AR_Ouachita         106    0.164835
- 2020-09-12                 LA_Caddo         550   -0.569640
  2020-09-12                 NE_Sarpy         130    0.111111
  2020-09-12             OR_Clackamas         171   -0.131980
  2020-09-12               VA_Roanoke         172    0.109677
