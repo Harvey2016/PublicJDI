@@ -1,4 +1,4 @@
-2020-09-28 09:54:09
+2020-09-28 23:20:01
 
 Population = 0:
 Empty DataFrame
@@ -11,33 +11,26 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-09-28         GA_Athens_Clarke         102    0.159091
  2020-09-28       NV_Clark_Henderson         338   -0.148615
  2020-09-27              NM_Sandoval         112    0.131313
- 2020-09-27                 OH_Lucas         101   -0.158333
  2020-09-26                NJ_Bergen         334    0.117057
  2020-09-25            LA_Washington         179   -0.118227
- 2020-09-24                 OH_Lucas         116    0.171717
  2020-09-23              FL_Okaloosa         725    0.117103
  2020-09-21              NM_Sandoval         101    0.122222
  2020-09-20                 MN_Anoka         172    0.102564
- 2020-09-20                 OH_Lucas         102   -0.163934
  2020-09-19                 KY_Casey         185    0.107784
  2020-09-19             LA_Morehouse         518   -0.120543
  2020-09-19         MN_Hennepin_Jail         461   -0.103113
  2020-09-19                TX_Orange         207   -0.122881
  2020-09-18                 IL_Adams         128    0.153153
- 2020-09-18                 OH_Lucas         119    0.155340
  2020-09-16               PA_Clinton         174   -0.107692
  2020-09-15                MN_Wright         125    0.126126
  2020-09-14             LA_Morehouse         598    0.191235
- 2020-09-14                 OH_Lucas         111   -0.125984
  2020-09-14             SD_Minnehaha         502    0.183962
  2020-09-14       WA_King_Des_Moines         479    0.137767
  2020-09-13                 LA_Caddo        1282    1.330909
- 2020-09-13                 OH_Lucas         127    0.123894
  2020-09-12              AR_Ouachita         106    0.164835
  2020-09-12                 NE_Sarpy         130    0.111111
  2020-09-12             OR_Clackamas         171   -0.131980
  2020-09-12               VA_Roanoke         172    0.109677
- 2020-09-11                 OH_Lucas         117    0.147059
  2020-09-11                 TX_Brown         153   -0.150000
  2020-09-10               OK_Wagoner         102    0.758621
  2020-09-10              TX_Rockwall         231   -0.118321
@@ -47,21 +40,17 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-09-09                   NM_Lea         154    0.149254
  2020-09-09             TX_Van_Zandt         112   -0.176471
  2020-09-09               WA_Cowlitz         143   -0.133333
- 2020-09-07                 OH_Lucas         112   -0.104000
  2020-09-06             SD_Minnehaha         486    1.505155
  2020-09-05               VA_Roanoke         185    0.121212
  2020-09-03                  KY_Clay         223    0.143590
  2020-09-03                  NC_Clay         223    0.143590
- 2020-09-03                 OH_Lucas         114    0.106796
  2020-09-02               KY_Lincoln         106   -0.131148
  2020-09-02            LA_Livingston         678    0.120661
- 2020-09-02                 OH_Lucas         103    0.119565
  2020-09-02              WA_Franklin         159   -0.101695
  2020-09-01                  IN_Clay         141   -0.113208
  2020-09-01             LA_Claiborne         444   -0.137864
  2020-09-01             WA_Nisqually         161   -0.105556
  2020-08-31              LA_Franklin         876    0.104666
- 2020-08-31                 OH_Lucas         116    0.288889
  2020-08-31               VA_Roanoke         174   -0.103093
  2020-08-29                  OH_Wood         121    0.110092
  2020-08-29    VA_Blue_Ridge_Bedford         105    0.105263
@@ -73,14 +62,12 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-08-27                NC_Stanly         123   -0.133803
  2020-08-26              LA_Franklin         796    0.107093
  2020-08-26              LA_Richland         737    0.128637
- 2020-08-26                 OH_Lucas         124    0.305263
  2020-08-25             WA_Nisqually         152   -0.126437
  2020-08-24            LA_Beauregard         136    0.105691
  2020-08-24             MN_Crow_Wing         108    0.102041
  2020-08-24              NM_Sandoval         102    0.133333
  2020-08-24            OH_Washington         129    0.216981
  2020-08-23                 MN_Anoka         153    0.133333
- 2020-08-23                 OH_Lucas         109   -0.141732
  2020-08-22             AL_Jefferson         870    0.372240
  2020-08-22            KY_Crittenden         121    0.100000
  2020-08-22        MO_Cape_Girardeau         174    0.101266
@@ -92,8 +79,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-08-20                 KY_Adair         103   -0.119658
  2020-08-20                 KY_Wayne         127    0.154545
  2020-08-20                  NM_Luna         322    0.133803
- 2020-08-20                 OH_Lucas         120    0.176471
- 2020-08-19                 OH_Lucas         102    0.200000
  2020-08-18               KS_Shawnee         443   43.300000
  2020-08-18        MO_Cape_Girardeau         160         inf
  2020-08-18                 NC_Burke         120   -0.111111
@@ -104,11 +89,8 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-08-17                  ND_Ward         163    0.116438
  2020-08-17                 OK_Grady         176    0.100000
  2020-08-16                AR_Saline         127    0.123894
- 2020-08-16                 OH_Lucas         104   -0.311258
- 2020-08-15                 OH_Lucas         151    0.237705
  2020-08-15             OR_Josephine         154   -0.114943
  2020-08-15              TX_Angelina         218   -0.120968
- 2020-08-14                 OH_Lucas         122    0.220000
  2020-08-13                AR_Saline         117   -0.152174
  2020-08-13                 LA_Caddo        1148    3.114695
  2020-08-12            LA_Beauregard         119   -0.190476
@@ -126,12 +108,10 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-08-09         MN_Hennepin_Jail         434    0.107143
  2020-08-09          WA_Grays_Harbor         135    0.106557
  2020-08-08                GA_Monroe         107    0.114583
- 2020-08-08                 OH_Lucas         132    0.306931
  2020-08-08               VA_Roanoke         189    0.188679
  2020-08-07               IL_McHenry         169   -0.187500
  2020-08-06               NE_Douglas        1189    0.316722
  2020-08-05              IL_Kankakee         255   -0.108392
- 2020-08-05                 OH_Lucas         103    0.144444
  2020-08-05            OH_Muskingham         136    0.152542
  2020-08-05                TX_Potter         380   -0.101655
  2020-08-04             ID_Nez_Perce         102    0.133333
@@ -163,7 +143,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-26                NC_Stanly         113    0.130000
  2020-07-26             NV_Las_Vegas         341    0.167808
  2020-07-25                  AR_Pope         143   -0.100629
- 2020-07-25                 OH_Lucas         109   -0.113821
  2020-07-25               VA_Roanoke         187    0.133333
  2020-07-24              AR_Crawford         145   -0.104938
  2020-07-24             LA_St_Landry         234   -0.113636
@@ -171,7 +150,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-24                 NC_Moore         106    0.104167
  2020-07-23                  IN_Clay         176    0.121019
  2020-07-22              MN_St_Louis         147   -0.103659
- 2020-07-22                 OH_Lucas         121    0.163462
  2020-07-22              OH_Mahoning         404    0.116022
  2020-07-22                TN_Monroe         202   -0.326667
  2020-07-22                  WA_King        2015  182.181818
@@ -240,7 +218,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-07-02                NC_Gaston         129   -0.711409
  2020-07-02               NC_Sampson         167    0.670000
  2020-07-02             NV_Las_Vegas         245   -0.109091
- 2020-07-02                 OH_Lucas         101    0.262500
  2020-07-02                 TN_Wayne         125    0.250000
  2020-07-02               TX_Midland         349   -0.116456
  2020-07-02                  TX_Polk         158    0.580000
@@ -330,7 +307,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-08                 OK_Grady         144    0.125000
  2020-06-06               LA_Lincoln         221    0.389937
  2020-06-06             MA_Worcester         455   -0.139887
- 2020-06-06                 OH_Lucas         110    0.100000
  2020-06-06                 TN_Giles         122    0.129630
  2020-06-05             KS_Wyandotte         349         inf
  2020-06-05               LA_Lincoln         159   -0.277273
@@ -343,7 +319,6 @@ Scrape_Date      Facility_Identifier  Population      Change
  2020-06-03              MN_St_Louis         130    0.101695
  2020-06-03                 NE_Sarpy         110   -0.160305
  2020-06-03             NV_Las_Vegas         249   -0.113879
- 2020-06-03                 OH_Lucas         101    0.629032
  2020-06-03                OH_Summit         338   -0.128866
  2020-06-02                 IA_Scott         293    0.105660
  2020-06-01             NV_Las_Vegas         286   -0.173410
